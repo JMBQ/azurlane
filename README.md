@@ -9,7 +9,7 @@ open `com\unity3d\player\UnityPlayerActivity.smali`
 `.method protected onCreate(Landroid/os/Bundle;)V` <br>
 `    .locals 2` <br>
 <br>
-Just insert the following code here  <br>
+Insert the code below this  <br>
 <br>
 `const-string v0, "JMBQ"`  <br>
 `invoke-static {v0}, Ljava/lang/System;->loadLibrary(Ljava/lang/String;)V` <br>
