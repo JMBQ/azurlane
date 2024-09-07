@@ -1,5 +1,4 @@
 # Azurlane
-I'm here with an update for azurlane <br>
 I've refactored the code logic to fix the crashing issue <br>
 
 Perseus was crashing for the simple reason that it could get luafunc and do hook operations before the il2cpp engine was loaded, so I just had to call the corresponding api for il2cpp and wait for it to finish loading before performing those operations. <br>
