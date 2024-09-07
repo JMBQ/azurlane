@@ -1,7 +1,7 @@
 # Azurlane
 I've refactored the code logic to fix the crashing issue <br>
 
-Perseus was crashing for the simple reason that it may try to get luafunc and do a hook before the il2cpp engine is loaded, so I just had to call the corresponding api for il2cpp and wait for it to finish loading before performing those operations. <br>
+This translation service is weak and can't express my meaning correctly, so I won't explain how to fix it <br>
 
 # How to use
 open `com\unity3d\player\UnityPlayerActivity.smali`
