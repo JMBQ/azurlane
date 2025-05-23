@@ -2,7 +2,8 @@
 I've refactored the code logic to fix the crashing issue <br>
 
 This translation service is weak and can't express my meaning correctly, so I won't explain how to fix it <br>
-
+# Feature
+* Add some other features to Perseus' original functionality (source code from 4pii4/PiePerseus), as described in Releases
 # How to use
 * Just load my library directly, no need to define additional methods <br><br>
     * open `com\unity3d\player\UnityPlayerActivity.smali` , find `onCreate` method.
@@ -30,3 +31,4 @@ Enabling the Skins mod gives you all skins in-game as if you had bought them. Th
 
 # Credits
 * [Egoistically/Perseus](https://github.com/Egoistically/Perseus)
+* [4pii4/PiePerseus](https://github.com/4pii4/PiePerseus)
