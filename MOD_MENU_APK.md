@@ -11,3 +11,5 @@
 # Download
 * Bili
 * KR (Only support real phone)
+
+  [MEGA download link](https://mega.nz/folder/050zETLK#UgzRVAI00XcVUFAAaT0ppA)
