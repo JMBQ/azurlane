@@ -6,7 +6,6 @@
 
 # How to install
 * Due to the difference in signature between the modified version and the official version, you need to uninstall the official version before you can install the modified version normally.
-* **The obb** is already included in the **apks**, so just use [Split APKs Installer](https://github.com/Aefyr/SAI/releases) to install it directly.
 
 # Download
 * Bili
