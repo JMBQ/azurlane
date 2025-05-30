@@ -9,5 +9,5 @@
 * **The obb** is already included in the **apks**, so just use [Split APKs Installer](https://github.com/Aefyr/SAI/releases) to install it directly.
 
 # Download
-* CN
+* Bili
 * KR (Only support real phone)
