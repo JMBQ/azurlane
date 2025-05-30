@@ -1,4 +1,4 @@
-# Azurlane
+# Azur Lane
 I've refactored the code logic to fix the crashing issue <br>
 
 This translation service is weak and can't express my meaning correctly, so I won't explain how to fix it <br>
