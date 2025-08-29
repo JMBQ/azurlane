@@ -12,14 +12,27 @@ The 4399 server contains seven `smali` folders. To avoid potential packaging err
 <br><br><br>
 * <font color=gray size=5>The floating icon did not appear when running the game. </font><br>
      When launching the game for the first time, if the game lacks overlay permissions, a settings window will automatically open (if no pop-up appears, it indicates a packaging error). You must grant Azur Lane overlay permissions.<br>
-     <video src="res/float_permission.mp4" controls></video>
+
+
+     https://github.com/user-attachments/assets/c6169108-c6db-4233-a17d-d925bad2da2c
+
+
      <br><br><br>
 * <font color=gray size=5>The floating icon is too big, affecting my ability to leave the game running in the background. </font><br>
-    <video src="res/float_icon_size.mp4" controls></video>
+
+
+    https://github.com/user-attachments/assets/304ef842-c457-4543-ad8d-a01389a86a3a
+
+  
     <br><br><br>
 * <font color=gray size=5>It keeps getting stuck on the update screen and won't let me enter the game. </font><br>
     You can try clearing all game data.<br>
-    <video src="res/data.mp4" controls></video>
+
+    
+    https://github.com/user-attachments/assets/7dfd7ec6-3424-489b-b7cc-07c9d3776a6d
+
+  
     <br><br><br>
 * <font color=gray size=5>The game may experience loading delays during gameplay. </font><br>
     * The exact cause is unclear; it could be due to the game itself or the injected Lua code. This issue cannot be resolved at present.
+
