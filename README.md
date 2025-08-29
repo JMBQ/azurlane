@@ -8,7 +8,8 @@ This translation service is weak and can't express my meaning correctly, so I wo
 * [click here](MOD_MENU_APK.md)
 # How to use
 * The MOD has been changed to a MOD MENU format. Specific usage instructions are available in the releases section.
-
+# Question
+* [click here](Question.md) / [点击这里](Question_CN.md)
 
 # Credits
 * [Egoistically/Perseus](https://github.com/Egoistically/Perseus)
