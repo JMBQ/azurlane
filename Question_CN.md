@@ -12,14 +12,27 @@
 <br><br><br>
 * <font color=gray size=5>运行游戏时没有出现悬浮图标 </font><br>
      在首次运行游戏时，如果游戏没有悬浮权限，会自动打开一个设置窗口(如果没有弹窗则代表打包错误)，你需要同意碧蓝航线的悬浮权限<br>
-     <video src="res/float_permission.mp4" controls></video>
+
+     
+https://github.com/user-attachments/assets/c6169108-c6db-4233-a17d-d925bad2da2c
+
+
      <br><br><br>
 * <font color=gray size=5>悬浮图标太大了，影响到我alas挂机了 </font><br>
-    <video src="res/float_icon_size.mp4" controls></video>
+
+
+https://github.com/user-attachments/assets/304ef842-c457-4543-ad8d-a01389a86a3a
+
+
     <br><br><br>
 * <font color=gray size=5>一直卡在更新界面，无法进入游戏 </font><br>
     可以尝试清空游戏所有数据<br>
-    <video src="res/data.mp4" controls></video>
+    
+
+https://github.com/user-attachments/assets/7dfd7ec6-3424-489b-b7cc-07c9d3776a6d
+
+
     <br><br><br>
 * <font color=gray size=5>在游戏过程中可能会出现卡loading </font><br>
     * 这个不清楚具体原因，可能是游戏自身原因，也可能是注入的lua代码原因，当前无法解决
+
