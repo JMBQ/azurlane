@@ -36,3 +36,9 @@ The 4399 server contains seven `smali` folders. To avoid potential packaging err
 * <font color=gray size=5>The game may experience loading delays during gameplay. </font><br>
     * The exact cause is unclear; it could be due to the game itself or the injected Lua code. This issue cannot be resolved at present.
 
+* After maxing out my weapon damage, some enemies can one-shot me.<br>
+  Weapon damage is a function applied exclusively to weapons. This effect occurs when enemies wield weapons. You can enable `Remove Equipment`, `Remove Skills`, or `Weak` to prevent it.<br><br>
+* I extended the reload time to its maximum, but the reload speed remained unchanged.<br>
+  The higher the reload time, the slower your reload speed becomes. The correct approach is to keep the reload time value as low as possible. If this value equals 0, the function is considered disabled.<br><br>
+* Can the previous selection be saved automatically so that I don't have to choose features every time I launch the game?<br>
+  In the upper-right corner of the function window, click to enable it yourself.<br><br>
