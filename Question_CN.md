@@ -50,6 +50,8 @@ https://github.com/user-attachments/assets/304ef842-c457-4543-ad8d-a01389a86a3a
 https://github.com/user-attachments/assets/7dfd7ec6-3424-489b-b7cc-07c9d3776a6d
 
 
+如果清除了数据，重新下载后依旧无法进入游戏，可以等待2.8，它应该是执行了反作弊代码而导致无法进入游戏，手机上可以正常进入，模拟器就有概率无法进入。2.8会提供2个版本，可以自由选择<br>
+
 
 * 在游戏过程中可能会出现卡loading<br>
     这个不清楚具体原因，先关闭`移除状态`，这个功能可能卡loading，可能是游戏自身原因，也可能是注入的lua代码原因，当前无法解决<br><br>
