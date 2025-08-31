@@ -42,6 +42,7 @@ The 4399 server contains seven `smali` folders. To avoid potential packaging err
   The higher the reload time, the slower your reload speed becomes. The correct approach is to keep the reload time value as low as possible. If this value equals 0, the function is considered disabled.<br><br>
 * Can the previous selection be saved automatically so that I don't have to choose features every time I launch the game?<br>
   In the upper-right corner of the function window, click to enable it yourself.<br><br>
-* Can we add double attack and double defense effects that only apply to our side, like other mods do?<br>
+* Can you add multi-attack and multi-defense effects that only affect our side, similar to other mods?<br>
     Mods are created using the Lua C API. If you can provide the corresponding source code, it will definitely be possible to add this feature.<br>
+
 
