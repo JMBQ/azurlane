@@ -1,5 +1,5 @@
 
-exxtern bool RemoveBBAnimation;
+extern bool RemoveBBAnimation;
 
 
 int hookBMWABSetActive(lua_State *L) {
@@ -31,3 +31,4 @@ void mod_BBanimation(lua_State *instance) {
     LOGI("mod_BBanimation");
 
 }
+
