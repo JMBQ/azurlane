@@ -1,5 +1,5 @@
 
-
+exxtern bool RemoveBBAnimation;
 
 
 int hookBMWABSetActive(lua_State *L) {
@@ -29,4 +29,5 @@ void mod_BBanimation(lua_State *instance) {
     luaHookFunc(L, obf("ys.Battle.BattleManualWeaponAutoBot.SetActive"),
                 hookBMWABSetActive, obf("old_"));
     LOGI("mod_BBanimation");
+
 }
