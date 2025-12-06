@@ -12,14 +12,25 @@
     Update to version 2.9.0 or later, and this problem will be gone.<br>
 
 * It keeps getting stuck on the update screen and won't let me enter the game.<br>
-    You can try clearing all game data. If clearing the data and re-downloading still prevents you from entering the game, you'll need to seek help from others. There are many possible reasons.<br>
+    You can try clearing all game data. <br>
 
     
     https://github.com/user-attachments/assets/7dfd7ec6-3424-489b-b7cc-07c9d3776a6d
 
-  
+
+<br>
+	It is possible that the OBB file version does not match the APK version. Use MT Manager to check the APK information and OBB information.<br>
+	
+![IMG_20251206_213820.jpg](https://github.com/user-attachments/assets/1e3a4d68-3063-41ea-8dda-8ea3c7aef2a9)
+
+![IMG_20251206_214130.jpg](https://github.com/user-attachments/assets/1cf0591a-5c4f-4171-a4ea-a2bad8f7907d)
+
+<br>
+	Download the game's XAPK file from download sites like APKPure. Extract it to obtain the OBB file. Place the OBB file corresponding to your game version into the appropriate OBB folder.
     <br><br><br>
-* <font color=gray size=5>The game may experience loading delays during gameplay. </font><br>
+
+    
+* The game may experience loading delays during gameplay.
     Update to version 2.9.0 or later, and this problem will be gone.<br>
 
 * After maxing out my weapon damage, some enemies can one-shot me.<br>
@@ -30,6 +41,7 @@
   In the upper-right corner of the function window, click to enable it yourself.<br><br>
 * Can you add the XXXXX feature like other mods do?<br>
     Mods are created using the Lua C API. If you can provide the corresponding source code, it will definitely be possible to add this feature.<br>
+
 
 
 
