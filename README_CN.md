@@ -1,6 +1,6 @@
 # 碧蓝航线 MOD MENU
 * 基于[Perseus](https://github.com/Egoistically/Perseus) 和 [4pii4/PiePerseus](https://github.com/4pii4/PiePerseus)源代码创建，优化了代码逻辑并修复了闪退
-* 从未授权任何人售卖本软件，不要相信奸商的任何话术
+* 从未授权任何人售卖本软件，不要相信奸商的任何话术(换成是我，直接申请退款，理由就写商家在商品里骂人)
 * 如果奸商有本事能抹掉我骂SB的文字，那等同于我自动授权了
 
 # 功能
