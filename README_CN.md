@@ -20,7 +20,7 @@
 * 如果你不会制作成品apk，可以来[这里](https://github.com/JMBQ/azurlane/issues/34)寻找下载链接
 * 你可以使用AL MOD MAKER来自行制作(Release 3.1.0)，关于它的用法不想说太多，只能说不会用就纯属智力问题了
 # 用法
-<img src="img/001.jpg" width="500px"><img src="img/002.jpg" width="500px">
+<img src="img/001.jpg" width="300px"><img src="img/002.jpg" width="300px">
 * 右上角的`设置`可切换至设置页面，支持记忆悬浮图标的位置 （开启`保存设置`）和调整悬浮图标大小
 * 如果你看不到悬浮图标，那就想尽一切办法把游戏的悬浮权限打开，手动授权
 * 在一些模拟器上，悬浮窗可能无法正常显示，可能需要你关闭一些模拟器选项，比如 保后台 之类的
