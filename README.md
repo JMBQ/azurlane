@@ -13,7 +13,7 @@
 - [x] RemoveMoraleWarning
 - [x] Skins：unlock all skins, Including share skins and dorm skins
 - [x] antiHeXie：Implemented by hooking internal methods，Involving ship names, ship skins, and Propose
-- [x] Block the upload of some cheat data to the official, not feature of Perseus
+- [x] Block the upload of some cheat data, not original feature of Perseus
 # Download
 * We provide only the production method, not the finished product
 * If you don't know how to create a finished APK, you can come [HERE](https://github.com/JMBQ/azurlane/issues/34) to find download links
