@@ -5,15 +5,15 @@
 * I've refactored the code logic to fix the crashing issue
 # Feature
 - [x] Multiple attack ratio、Multiple defence ratio
-- [x] Ship reload ratio: The higher the ratio, the faster the reload(3.0.0 or later)
+- [x] Ship reload ratio: The higher the ratio, the faster the reload
 - [x] fastStageMovement、worldFastStageMovement
 - [x] RemoveBBAnimation: Remove ship cannon firing animation
 - [x] AutoRepeatMax
 - [x] RemoveHardModeStatLimit：Remove restrictions on ship types and numerical values
 - [x] RemoveMoraleWarning
-- [x] Skins：unlock all skins, Including share skins (3.0.0 或更高) and dorm skins
-- [x] antiHeXie：Implemented by hooking internal methods，Involving ship names, ship skins, and Propose (3.0.0 or later)
-- [x] Block the upload of some cheat data to the official (3.0.0 or later), not feature of Perseus
+- [x] Skins：unlock all skins, Including share skins and dorm skins
+- [x] antiHeXie：Implemented by hooking internal methods，Involving ship names, ship skins, and Propose
+- [x] Block the upload of some cheat data to the official, not feature of Perseus
 # Download
 * We provide only the production method, not the finished product
 * If you don't know how to create a finished APK, you can come [HERE](https://github.com/JMBQ/azurlane/issues/34) to find download links
