@@ -19,6 +19,7 @@
 * If you don't know how to create a finished APK, you can come [HERE](https://github.com/JMBQ/azurlane/issues/34) to find download links
 * Use AL Mod Maker
 # Usage
+English is displayed by default and will automatically switch to Chinese when a Simplified Chinese user is detected.</br>
 <img src="img/001.jpg" width="300px"></br>
 * `Settings` allows switching to the settings page, supporting floating icon position memory (enable `Save feature preferences`) and floating icon size adjustment.
 * If you can't see the floating icon, do whatever it takes to enable the game's floating permission and manually grant it.
