@@ -17,8 +17,9 @@
 # Download
 * We provide only the production method, not the finished product
 * If you don't know how to create a finished APK, you can come [HERE](https://github.com/JMBQ/azurlane/issues/34) to find download links
+* Use AL Mod Maker
 # Usage
-<img src="img/001.jpg" width="300px"><img src="img/002.jpg" width="300px">
+<img src="img/001.jpg" width="300px">
 * `Settings` allows switching to the settings page, supporting floating icon position memory (enable `Save feature preferences`) and floating icon size adjustment.
 * If you can't see the floating icon, do whatever it takes to enable the game's floating permission and manually grant it.
 * On some emulators, the floating window may not display properly. You may need to disable certain emulator options, such as background preservation.
