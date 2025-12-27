@@ -17,6 +17,14 @@ https://github.com/user-attachments/assets/c6169108-c6db-4233-a17d-d925bad2da2c
 	* 如果是外服碧蓝航线，有可能是能OBB文件版本与APK版本不匹配，使用MT管理器查看apk信息和OBB信息，前往apkpure等下载站下载游戏xapk文件，解压可得OBB，将对应版本的OBB文件放到对应OBB文件夹内<br>
 	<img src="img/OBB_01.jpg" width="300px"><img src="img/OBB_02.jpg" width="300px"><br>
     * 可以尝试清空游戏所有数据
+    <br><br>
+* 如何从xpak中获取obb文件
+
+
+https://github.com/user-attachments/assets/cbf06ce6-4dc8-4dae-80ac-d96e185ded61
+
+
+
 * 安装新版本apk如果报错，一定要先卸载之前的版本后才能安装新版本吗
 	* 可以先尝试直接安装，也就是覆盖安装
  	* 如果覆盖安装失败，你基本需要先卸载，再安装新版本APK
@@ -31,6 +39,7 @@ https://github.com/user-attachments/assets/c6169108-c6db-4233-a17d-d925bad2da2c
   * 开启`保存配置`<br><br>
 * 能不能像其他mod那样增加XXXXX功能
   * mod是基于lua c api来制作的，如果你能提供对应的源码，那就能添加
+
 
 
 
