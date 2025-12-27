@@ -20,10 +20,19 @@ https://github.com/user-attachments/assets/7dfd7ec6-3424-489b-b7cc-07c9d3776a6d
 
 <br>
 
+* How to unzip obb file. <br>
+
+
+https://github.com/user-attachments/assets/cbf06ce6-4dc8-4dae-80ac-d96e185ded61
+
+
+
+
 * Can the previous selection be saved automatically so that I don't have to choose features every time I launch the game?<br>
   enable `Save feature preferences`.<br><br>
 * Can you add the XXXXX feature like other mods do?<br>
     Mods are created using the Lua C API. If you can provide the corresponding source code, it will definitely be possible to add this feature.<br>
+
 
 
 
