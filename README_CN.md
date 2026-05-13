@@ -21,7 +21,7 @@
 # 下载
 * 只提供制作方法，不提供成品
 * 如果你不会制作成品apk，可以来[这里](https://github.com/JMBQ/azurlane/issues/34)寻找下载链接
-* 你也可以使用`AL MOD MAKER`一键打包出菜单apk （Release里翻找，可能有下载，不可能每个版本都发的），关于它的用法不想说太多，只能说不会用就纯属智商问题了
+* 你也可以使用[AL MOD MAKER](https://github.com/JMBQ/azurlane/tree/main/AL_Mod_Maker)一键打包出菜单apk，关于它的用法不想说太多，只能说不会用就纯属智商问题了
 # 封禁指南
 * 可能会导致你被封号，2天后被封或者20年后被封
 * 用别怕，怕别用，卸载保账号吧
