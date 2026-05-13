@@ -5,7 +5,7 @@
 * I've refactored the code logic to fix the crashing issue
 # Feature
 * `Multiple attack ratio`、`Multiple defence ratio`
-  * `Multiple defence ratio`: Does not work in `exercise`
+  * `Multiple attack ratio`: Does not work in `exercise`
 * `Ship reload ratio`: The higher the ratio, the faster the reload
 * `fastStageMovement`、`worldFastStageMovement`
   * `worldFastStageMovement`: `Sairen` map
